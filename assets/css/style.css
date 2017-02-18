@@ -1,0 +1,18 @@
+body {
+	left: 60px;
+	background-image: url("../images/alien1.jpg");
+}
+
+#coffee {
+	position: fixed;
+	bottom:0;
+}
+
+h3, p {
+	clear: both;
+	font-size: 35px;
+}
+
+#totalGuesses {
+	clear:both;
+}
